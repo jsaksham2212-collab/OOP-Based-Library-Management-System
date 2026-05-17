@@ -1,9 +1,0 @@
-[
-    {
-        "User_id": "102",
-        "Name": "hello",
-        "Book_id": "10",
-        "date_of Borrow": "17-05-2026",
-        "is_returned": "True"
-    }
-]
