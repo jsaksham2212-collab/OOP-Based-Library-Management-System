@@ -265,5 +265,3 @@ library = library()
 
 #     else:
 #         print("Invalid Choice")
-        
-library.view_users(User)
